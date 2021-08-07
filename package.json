@@ -1,0 +1,23 @@
+{
+  "name": "get-build-info",
+  "version": "0.0.1",
+  "description": "Get Build Info",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prosenjit-manna/get-debug-info.git"
+  },
+  "keywords": [
+    "Debug",
+    "info"
+  ],
+  "author": "Prossenjit Manna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prosenjit-manna/get-debug-info/issues"
+  },
+  "homepage": "https://github.com/prosenjit-manna/get-debug-info#readme"
+}
